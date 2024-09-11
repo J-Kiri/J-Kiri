@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student** at IFMG - Campu
 
 ## 🎧 Spotify - Listen Now
 
-[![Spotify](https://spotify-readme-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
+[![Spotify](https://j-kiri.vercel.app/api/spotify)](https://open.spotify.com/user/c05doikx2weaw2vhm4618ktbt)
 
 ## 💬 Let's Connect!
 
