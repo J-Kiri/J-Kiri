@@ -4,7 +4,7 @@ Hey there! I'm **J-Kiri**, a passionate **Computer Science student** from IFMG -
 
 ## 🛠️ Technologies I Love
 
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), JavaScript, Java, C++
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff), JavaScript, Java, C++
 - **Web Development:** HTML, CSS, React, PrimeFaces, JSF
 - **Embedded Systems:** Arduino, Raspberry Pi, and DIY electronics
 - **Dev Tools:** Git, Figma, Graphviz, VS Code
