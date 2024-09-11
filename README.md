@@ -1,36 +1,41 @@
-# Hi there, I'm J-Kiri! 👋
+# Welcome to My Code Realm! 👾
 
-Welcome to my GitHub profile! I'm a **Computer Science student** at IFMG - Campus Formiga, passionate about **electronics**, **software development**, and **UI/UX design**. I love exploring the intersection of technology and creativity through my projects.
+Hey there! I'm **J-Kiri**, a passionate **Computer Science student** from IFMG - Campus Formiga, exploring the realms of **software development**, **electronics**, and **design**. Here, you'll find a blend of code, creativity, and caffeine-fueled projects. 🚀
 
-## 🔧 Technologies & Tools
+## 🛠️ Technologies I Love
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** Python, JavaScript, Java, C++
 - **Web Development:** HTML, CSS, React, PrimeFaces, JSF
-- **Embedded Systems:** Arduino, Raspberry Pi
-- **Software Development:** Agile methodologies (XP, Lean Development), Object-Oriented Programming
-- **Tools:** Git, Graphviz, Figma
+- **Embedded Systems:** Arduino, Raspberry Pi, and DIY electronics
+- **Dev Tools:** Git, Figma, Graphviz, VS Code
+- **Software Engineering:** Agile (XP, Lean), Object-Oriented Design
 
-## 🌱 What I'm currently working on
+## 🌌 Current Adventures
 
-- **🎥 Video Streaming System:** Building a custom streaming solution that combines TCP and UDP protocols.
-- **📚 Academic Research:** Writing a detailed article on communication protocols and buses.
-- **📊 UI/UX Projects:** Exploring user-centered design techniques.
+- **🖥️ Building:** A custom video streaming system with hybrid TCP/UDP protocol.
+- **📚 Researching:** Advanced communication protocols and bus systems for an academic paper.
+- **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
 
-## 📈 GitHub Stats
+## 🎧 What I'm Jamming To
 
-![J-Kiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Kiri&show_icons=true&theme=radical)
+Love coding with music? Me too! Here's what I'm currently listening to on Spotify:
 
-## 🎧 Spotify - Listen Now
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
 
-[![Spotify](https://spotify-readme-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/c05doikx2weaw2vhm4618ktbt)
+## 📊 GitHub in Action!
 
-## 💬 Let's Connect!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Kiri&layout=compact&bg_color=101f4d&title_color=64e4aa&text_color=64e4aa&icon_color=33668c)](https://github.com/anuraghazra/github-readme-stats)
+
+![J-Kiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Kiri&show_icons=true&bg_color=101f4d&title_color=64e4aa&text_color=64e4aa&icon_color=33668c)
+
+## 🚀 Let's Connect!
 
 - **LinkedIn:** [J-Kiri](https://www.linkedin.com/in/your-linkedin-profile)
+- **Dev.to:** [J-Kiri](https://dev.to/your_username)
 - **Twitter:** [@J_Kiri](https://twitter.com/your_twitter_handle)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
 
-Feel free to explore my repositories and get in touch!
+## ✨ Fun Fact
 
----
+When I'm not coding or soldering circuits, you might find me exploring game development or lost in a good book about algorithms. 📖
 
+Thanks for stopping by! Feel free to fork, star, or drop me a message. Happy coding! 😊
