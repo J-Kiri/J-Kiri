@@ -27,7 +27,7 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
         <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="100" />
       </a>
       <br />
-      <sub><b>Avante Soluções Digitais</b></sub>
+      <sub><b style="color: white;">Junior System Developer</b></sub>   
     </td>
   </tr>
 </table>
