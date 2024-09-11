@@ -20,7 +20,7 @@ Hey there! I'm **J-Kiri**, a passionate **Computer Science student** from IFMG -
 
 Love coding with music? Me too! Here's what I'm currently listening to on Spotify:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=c05doikx2weaw2vhm4618ktbt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=c05doikx2weaw2vhm4618ktbt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=c05doikx2weaw2vhm4618ktbt&redirect=true)
 
 ## 📊 GitHub in Action!
 
