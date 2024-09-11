@@ -20,16 +20,10 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 - **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
 
 ## 🏢 Currently Working at
-<div style="background-color: #174bdf; padding: 20px; border-radius: 10px; display: inline-block;">
-  <p>
-    <a href="https://www.avantejuntos.com.br/">
-      <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="100" style="border: none;"/>
-    </a>
-  </p>
-  <sub>
-    <b style="color: white;">Junior System Developer</b>
-  </sub>   
-</div>
+<a href="https://www.avantejuntos.com.br/" style="display: inline-flex; align-items: center; background-color: #174bdf; color: white; padding: 10px 20px; border-radius: 15px; text-decoration: none; font-size: 16px;">
+  <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="50" alt="Avante Juntos Logo" style="margin-right: 10px;"/>
+  Avante Juntos
+</a>
 
 ## 🎧 What I'm Jamming To
 
