@@ -23,21 +23,15 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Organization1">
-        <img src="https://example.com/logo1.png" width="100" />
+      <a href="https://www.avantejuntos.com.br/">
+        <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="100" />
       </a>
       <br />
-      <sub><b>Organization 1</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Organization2">
-        <img src="https://example.com/logo2.png" width="100" />
-      </a>
-      <br />
-      <sub><b>Organization 2</b></sub>
+      <sub><b>Avante Soluções Digitais</b></sub>
     </td>
   </tr>
 </table>
+
 ## 🎧 What I'm Jamming To
 
 Love coding with music? Me too! Here's what I'm currently listening to on Spotify:
