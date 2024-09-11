@@ -21,9 +21,7 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 
 ## 🏢 Currently Working at
 
-<a href="https://www.avantejuntos.com.br/" style="display: inline-flex; align-items: center; background-color: #174bdf; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-size: 16px; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="60" alt="Avante Juntos Logo" style="margin-right: 15px;"/>
-</a>
+[![avante](https://img.shields.io/badge/avante-174bdf?style=for-the-badge&logo=a&logoColor=174bdf)](https://www.avantejuntos.com.br/)
 
 
 ## 🎧 What I'm Jamming To
