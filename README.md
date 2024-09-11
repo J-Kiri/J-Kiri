@@ -21,10 +21,11 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 
 ## 🏢 Currently Working at
 <div style="background-color: #174bdf; padding: 20px; border-radius: 10px; display: inline-block;">
-  <a href="https://www.avantejuntos.com.br/">
-    <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="100" style="border: none;"/>
-  </a>
-  <br />
+  <p>
+    <a href="https://www.avantejuntos.com.br/">
+      <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="100" style="border: none;"/>
+    </a>
+  </p>
   <sub>
     <b style="color: white;">Junior System Developer</b>
   </sub>   
