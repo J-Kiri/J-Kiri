@@ -22,7 +22,7 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 ## 🏢 Currently Working at
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color: #174bdf>
       <a href="https://www.avantejuntos.com.br/">
         <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="100" />
       </a>
