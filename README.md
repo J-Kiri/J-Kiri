@@ -1,6 +1,6 @@
 # Welcome to My Code Realm! 👾
 
-Hey there! I'm **J-Kiri**, a passionate **Computer Science student** from IFMG - Campus Formiga, exploring the realms of **software development**, **electronics**, and **design**. Here, you'll find a blend of code, creativity, and caffeine-fueled projects. 🚀
+Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** from IFMG - Campus Formiga, exploring the realms of **software and web development**, **electronics**, and **design**. Here, you'll find a blend of code, creativity, and caffeine-fueled projects. 🚀
 
 ## 🛠️ Technologies I Use
 
@@ -15,8 +15,8 @@ Hey there! I'm **J-Kiri**, a passionate **Computer Science student** from IFMG -
 
 ## 🌌 Current Adventures
 
-- **🖥️ Building:** A custom video streaming system with hybrid TCP/UDP protocol.
-- **📚 Researching:** Advanced communication protocols and bus systems for an academic paper.
+- **🖥️ Building:** A Custom Game Launcher integred with cloud storage for the save files.
+- **📚 Researching:** .
 - **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
 
 ## 🎧 What I'm Jamming To
@@ -33,9 +33,8 @@ Love coding with music? Me too! Here's what I'm currently listening to on Spotif
 
 ## 🚀 Let's Connect!
 
-- **LinkedIn:** [J-Kiri](https://www.linkedin.com/in/your-linkedin-profile)
-- **Dev.to:** [J-Kiri](https://dev.to/your_username)
-- **Twitter:** [@J_Kiri](https://twitter.com/your_twitter_handle)
+- **LinkedIn:** [J-Kiri](https://www.linkedin.com/in/joaoggofilho/)
+- **Behance:** [J-Kiri](https://www.behance.net/joao_gualberto)
 
 ## ✨ Fun Fact
 
