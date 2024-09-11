@@ -24,7 +24,11 @@ Love coding with music? Me too! Here's what I'm currently listening to on Spotif
 
 ## 📊 GitHub in Action!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Kiri&layout=compact&bg_color=101f4d&title_color=64e4aa&text_color=64e4aa&icon_color=33668c)](https://github.com/anuraghazra/github-readme-stats)![J-Kiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Kiri&show_icons=true&bg_color=101f4d&title_color=64e4aa&text_color=64e4aa&icon_color=33668c)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-kiri&show_icons=true&theme=dark&locale=en&layout=compact" alt="j-kiri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-kiri&show_icons=true&theme=dark&locale=en" alt="j-kiri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-kiri&theme=dark" alt="j-kiri" /></p>
 
 ## 🚀 Let's Connect!
 
