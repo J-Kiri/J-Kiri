@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm J-Kiri! 👋
 
-<!--
-**J-Kiri/J-Kiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computer Science student** at IFMG - Campus Formiga, passionate about **electronics**, **software development**, and **UI/UX design**. I love exploring the intersection of technology and creativity through my projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, Python, Java, C++
+- **Web Development:** HTML, CSS, React, PrimeFaces, JSF
+- **Embedded Systems:** Arduino, Raspberry Pi
+- **Software Development:** Agile methodologies (XP, Lean Development), Object-Oriented Programming
+- **Tools:** Git, Graphviz, Figma
+
+## 🌱 What I'm currently working on
+
+- **🎥 Video Streaming System:** Building a custom streaming solution that combines TCP and UDP protocols.
+- **📚 Academic Research:** Writing a detailed article on communication protocols and buses.
+- **📊 UI/UX Projects:** Exploring user-centered design techniques.
+
+## 📈 GitHub Stats
+
+![J-Kiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Kiri&show_icons=true&theme=radical)
+
+## 🎧 Spotify - Listen Now
+
+[![Spotify](https://spotify-readme-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
+
+## 💬 Let's Connect!
+
+- **LinkedIn:** [J-Kiri](https://www.linkedin.com/in/your-linkedin-profile)
+- **Twitter:** [@J_Kiri](https://twitter.com/your_twitter_handle)
+- **Website:** [yourwebsite.com](https://yourwebsite.com)
+
+Feel free to explore my repositories and get in touch!
+
+---
+
