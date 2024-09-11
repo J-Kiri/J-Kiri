@@ -19,7 +19,7 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 - **📚 Researching:** .
 - **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
 
-## 🏢 Currently Working at
+## 🏢 Working as
 
 Junior System Developer at [![avante](https://img.shields.io/badge/avante-174bdf?style=for-the-badge&logo=a&logoColor=174bdf)](https://www.avantejuntos.com.br/)
 
