@@ -21,7 +21,7 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 
 ## 🏢 Currently Working at
 
-[![avante](https://img.shields.io/badge/avante-174bdf?style=for-the-badge&logo=a&logoColor=174bdf)](https://www.avantejuntos.com.br/)
+[![avante](https://img.shields.io/badge/avante-174bdf?style=for-the-badge&logo=a&logoColor=174bdf)](https://www.avantejuntos.com.br/) Junior System Developer
 
 
 ## 🎧 What I'm Jamming To
