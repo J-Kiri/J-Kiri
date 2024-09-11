@@ -20,8 +20,24 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 - **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
 
 ## 🏢 Currently Working at
-- [![Org1](https://img.shields.io/badge/Org1-Developer-blue?style=flat-square&logo=github)](https://github.com/Organization1) - Junior System Developer
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Organization1">
+        <img src="https://example.com/logo1.png" width="100" />
+      </a>
+      <br />
+      <sub><b>Organization 1</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Organization2">
+        <img src="https://example.com/logo2.png" width="100" />
+      </a>
+      <br />
+      <sub><b>Organization 2</b></sub>
+    </td>
+  </tr>
+</table>
 ## 🎧 What I'm Jamming To
 
 Love coding with music? Me too! Here's what I'm currently listening to on Spotify:
