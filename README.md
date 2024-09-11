@@ -20,7 +20,7 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 - **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
 
 ## 🏢 Currently Working at
-<div align="center" style="background-color: #174bdf; padding: 20px; border-radius: 10px; display: inline-block;">
+<div style="background-color: #174bdf; padding: 20px; border-radius: 10px; display: inline-block;">
   <a href="https://www.avantejuntos.com.br/">
     <img src="https://blog.avantejuntos.com.br/wp-content/uploads/2024/08/avantelogo-branco.svg" width="100" style="border: none;"/>
   </a>
