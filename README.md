@@ -32,6 +32,8 @@ Love coding with music? Me too! Here's what I'm currently listening to on Spotif
 
 ## 📊 GitHub in Action!
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-kiri&show_icons=true&theme=dark&locale=en&layout=compact" alt="j-kiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-kiri&theme=dark" alt="j-kiri" /></p>
