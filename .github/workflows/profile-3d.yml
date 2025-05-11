@@ -26,3 +26,12 @@ jobs:
           if git commit -m "generated"; then
             git push
           fi
+      - name: Check if token is set
+        run: |
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "There is no TOKEN!!!!"
+            exit 1
+          else
+            echo "There is a TOKEN"
+          fi
+
