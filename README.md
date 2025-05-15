@@ -16,7 +16,7 @@ Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** f
 ## 🌌 Current Adventures
 
 - **🖥️ Building:** A Custom Game Launcher integred with cloud storage for the save files.
-- **📚 Researching:** .
+- **📚 Researching:** Ways to reduce flakyness of Selenium based tests.
 - **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
 
 ## 🏢 Working as
