@@ -1,6 +1,6 @@
 # Welcome to My Code Realm! 👾
 
-Hey there! I'm **João Gualaberto**, a passionate **Computer Science student** from IFMG - Campus Formiga, exploring the realms of **software and web development**, **electronics**, and **design**. Here, you'll find a blend of code, creativity, and caffeine-fueled projects. 🚀
+Hey there! I'm **João Gualberto**, a passionate **Computer Science student** from IFMG - Campus Formiga, exploring the realms of **software and web development**, **electronics**, and **design**. Here, you'll find a blend of code, creativity, and caffeine-fueled projects. 🚀
 
 ## 🛠️ Technologies I Use 
 
