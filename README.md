@@ -17,8 +17,8 @@ Hey there! I'm **João Gualberto**, a passionate **Computer Science student** fr
 ## 🌌 Current Adventures
 
 - **🖥️ Building:** A Custom Game Launcher integred with cloud storage for the save files.
-- **📚 Researching:** Ways to reduce flakyness of Selenium based tests.
-- **🎨 Designing:** UI/UX prototypes to make interfaces that are both beautiful and functional.
+- **📚 Researching:** Noise-Canceling technology
+- **🎨 Designing:** UI/UX prototypes for small projects.
 
 ## 🏢 Working as
 
@@ -45,6 +45,6 @@ Love coding with music? Me too! Here's what I'm currently listening to on Spotif
 
 ## ✨ Fun Fact
 
-When I'm not coding or soldering circuits, you might find me exploring game development or lost in a good book about algorithms. 📖
+When I'm not coding or soldering circuits, you might find me exploring game development, producing songs or lost in a good book. 📖
 
 Thanks for stopping by! Feel free to fork, star, or drop me a message. Happy coding! 😊
