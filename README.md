@@ -22,7 +22,7 @@ Hey there! I'm **João Gualberto**, a passionate **Computer Science student** fr
 
 ## 🏢 Working as
 
-System Developer at [![avante](https://img.shields.io/badge/avante-174bdf?style=for-the-badge&logo=a&logoColor=174bdf)](https://www.avantejuntos.com.br/)
+System Developer at [![BrunaRios](https://img.shields.io/badge/BRUNA%20RIOS-7C223F?style=for-the-badge)](https://www.instagram.com/brunariosassessoria/)
 
 
 ## 🎧 What I'm Jamming To
